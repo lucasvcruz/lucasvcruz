@@ -1,3 +1,14 @@
+😄 Olá, sou o Lucas Vinícius,
+
+Sou programador iniciante em busca de aprimorar seus conhecimentos.
+
+<ul>
+<li> Formado em Técnico de Informática/Programação;
+<li> Formado em Técnico de Programação Front-End;
+<li> Graduando Ciência da Computação.
+</ul>
+
+</br>
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasvcruz&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvcruz&layout=compact&theme=tokyonight"/>
