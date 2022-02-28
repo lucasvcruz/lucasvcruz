@@ -11,7 +11,6 @@ Sou programador iniciante em busca de aprimorar seus conhecimentos.
 </br>
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasvcruz&show_icons=true&theme=tokyonight"/>
-  </br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvcruz&layout=compact&theme=tokyonight"/>
 </div>
 </br>
