@@ -1,6 +1,6 @@
 😄 Olá, sou o Lucas Vinícius,
 
-Sou programador iniciante em busca de aprimorar seus conhecimentos.
+Sou programador iniciante em busca de aprimorar meus conhecimentos.
 
 <ul>
 <li> Formado em Técnico de Informática/Programação;
