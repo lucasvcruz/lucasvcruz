@@ -8,6 +8,9 @@ Sou programador iniciante em busca de aprimorar meus conhecimentos.
 <li> Graduando Ciência da Computação.
 </ul>
 
+<ul>
+  <li> Aprendendo JS e JQuery - Básico
+<ul>
 </br>
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasvcruz&show_icons=true&theme=tokyonight"/>
