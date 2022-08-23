@@ -9,7 +9,7 @@ Sou programador iniciante em busca de aprimorar meus conhecimentos.
 </ul>
 
 <ul>
-  <li> Aprendendo JS e JQuery - Básico
+  <li> Aprendendo JS e C#
 <ul>
 </br>
 <div>
