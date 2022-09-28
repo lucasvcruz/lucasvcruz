@@ -1,15 +1,15 @@
 😄 Olá, sou o Lucas Vinícius,
 
-Sou programador iniciante em busca de aprimorar meus conhecimentos.
+Sou programador iniciante em busca de uma oportunidade para aplicar meus conhecimentos;
 
 <ul>
-<li> Formado em Técnico de Informática/Programação;
-<li> Formado em Técnico de Programação Front-End;
-<li> Graduando Ciência da Computação.
+<li> Formação técnica em Informática/Programação; </li>
+<li> Formação técnica em Programação Front-End; </li>
+<li> Graduando em Ciência da Computação. </li>
 </ul>
 
 <ul>
-  <li> Aprendendo JS e C#
+  <li> Iniciante em JS e C#
 <ul>
 </br>
 <div>
