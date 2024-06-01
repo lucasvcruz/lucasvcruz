@@ -5,7 +5,7 @@ Sou programador iniciante em busca de uma oportunidade para aplicar meus conheci
 <ul>
 <li> Formação técnica em Informática/Programação; </li>
 <li> Formação técnica em Programação Front-End; </li>
-<li> Graduando em Ciência da Computação. </li>
+<li> Cursando Análise e desenvolvimento de sistemas. </li>
 </ul>
 
 <ul>
